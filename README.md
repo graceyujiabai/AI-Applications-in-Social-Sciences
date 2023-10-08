@@ -1,5 +1,4 @@
-# MACS31300
-AI Applications in Social Sciences Final Project 
+# Analyzing COVID-19 Tweets in Python
 
 Python
 
